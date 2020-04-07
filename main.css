@@ -1,0 +1,98 @@
+<style>
+
+html
+{
+	margin: 0px;
+	padding: 0px;
+}
+head
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+footer{
+	margin: 0px;
+	padding: 0px;
+}
+
+#bar_left
+{
+	width: 19.5%;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: navy;
+	height: 100%;
+	display: inline-block;
+	vertical-align: text-top;
+}
+
+#logo_left
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 100%;
+}
+#img_logo_left
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 100%;
+}
+
+#space_left
+{
+	height: 2%;
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu_left
+{
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: white;
+	margin-left: 2%;
+	margin-right: 2%;
+	width: 92%;
+}
+#menu_left_item
+{
+	margin-top: 1%;
+	margin-right: 1%;
+	padding-left: 2%;
+	padding-right: 2%;
+	width: 94%;
+	border: 0.5px solid black;
+}
+
+
+#mainbody
+{
+	width: 80.2%;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	background-color: green;
+	vertical-align: text-top;
+}
+
+#h1mainbody
+{
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+</style>
